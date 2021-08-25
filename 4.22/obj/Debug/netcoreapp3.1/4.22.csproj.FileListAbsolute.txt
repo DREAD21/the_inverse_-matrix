@@ -1,0 +1,13 @@
+C:\Users\Никита\Desktop\лр\4.22\4.22\bin\Debug\netcoreapp3.1\4.22.exe
+C:\Users\Никита\Desktop\лр\4.22\4.22\bin\Debug\netcoreapp3.1\4.22.deps.json
+C:\Users\Никита\Desktop\лр\4.22\4.22\bin\Debug\netcoreapp3.1\4.22.runtimeconfig.json
+C:\Users\Никита\Desktop\лр\4.22\4.22\bin\Debug\netcoreapp3.1\4.22.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\лр\4.22\4.22\bin\Debug\netcoreapp3.1\4.22.dll
+C:\Users\Никита\Desktop\лр\4.22\4.22\bin\Debug\netcoreapp3.1\4.22.pdb
+C:\Users\Никита\Desktop\лр\4.22\4.22\obj\Debug\netcoreapp3.1\4.22.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\лр\4.22\4.22\obj\Debug\netcoreapp3.1\4.22.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\лр\4.22\4.22\obj\Debug\netcoreapp3.1\4.22.AssemblyInfo.cs
+C:\Users\Никита\Desktop\лр\4.22\4.22\obj\Debug\netcoreapp3.1\4.22.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\лр\4.22\4.22\obj\Debug\netcoreapp3.1\4.22.dll
+C:\Users\Никита\Desktop\лр\4.22\4.22\obj\Debug\netcoreapp3.1\4.22.pdb
+C:\Users\Никита\Desktop\лр\4.22\4.22\obj\Debug\netcoreapp3.1\4.22.genruntimeconfig.cache
